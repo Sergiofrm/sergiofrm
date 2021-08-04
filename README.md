@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como Analista de Logistica
 - 🌱 Estudante de Python 
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/sergiofrm">
