@@ -1,6 +1,6 @@
 ### Olá ! Eu sou o Sérgio Felipe 👋
 
-- 🌱 Estudante de Java Script /Python 
+- 🌱 Estudante de Java Script
 
  <div>
   <a href="https://github.com/sergiofrm">
