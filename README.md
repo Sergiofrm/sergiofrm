@@ -1,7 +1,6 @@
 ### Olá ! Eu sou o Sérgio Felipe 👋
 
-- 🔭 Hoje trabalho como Analista de Logistica
-- 🌱 Estudante de Python 
+- 🌱 Estudante de Java Script /Python 
 
  <div>
   <a href="https://github.com/sergiofrm">
