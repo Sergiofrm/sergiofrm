@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Sérgio Felipe 👋
+### Olá ! Eu sou o Sérgio Felipe :alien::computer:
 
 -  Estudante de Java Script / Node.JS
 
@@ -23,6 +23,10 @@
    <a href = "mailto:serginho.felipe@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     	<a href="https://www.twitch.tv/sergiofrm" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  	<a href="https://www.instagram.com/sergiofrmelo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  	<a href="https://www.linkedin.com/in/s%C3%A9rgio-felipe-melo-6a8211130/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  
+  
+  
    
    ![Snake animation](https://github.com/sergiofrm/sergiofrm/blob/output/github-contribution-grid-snake.svg)
  </div>
