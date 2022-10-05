@@ -9,6 +9,7 @@
   </div>
 
 
+
  <div style="display: inline_block">
   <img align="center" alt="Sergo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Sergio-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"">
